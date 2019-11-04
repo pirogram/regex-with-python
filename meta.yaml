@@ -1,0 +1,13 @@
+code: regex-with-python
+title: Regex With Python
+toc:
+  - code: about
+    title: About
+    id: 53cb429e-bd27-46d6-a657-c1f04138ae22
+    topics:
+      - code: book
+        title: Book
+        id: 4b6c3d8d-a13e-4d50-a1f2-68e946b6f857
+      - code: author
+        title: Author
+        id: b1a7f1b9-2311-4812-9927-97b4e75dcac3
