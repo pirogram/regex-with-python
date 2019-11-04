@@ -39,6 +39,9 @@ toc:
       - code: matching-one-of-many-characters
         title: Matching One of Many Characters
         id: b6b591cd-2e87-45e2-b419-3c601041741d
+      - code: matching-character-types
+        title: Matching Character Types
+        id: cc4b0ce4-327d-4f5c-8ba5-037784352ad9
   - code: about
     title: About
     id: 53cb429e-bd27-46d6-a657-c1f04138ae22
