@@ -42,6 +42,10 @@ toc:
       - code: matching-character-types
         title: Matching Character Types
         id: cc4b0ce4-327d-4f5c-8ba5-037784352ad9
+  - code: matching-repetitions
+    title: Matching Repetitions
+    id: 130a68d2-b085-4733-a186-34526d607335
+    topics: []
   - code: about
     title: About
     id: 53cb429e-bd27-46d6-a657-c1f04138ae22
