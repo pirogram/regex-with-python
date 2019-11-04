@@ -74,6 +74,10 @@ toc:
       - code: matching-line-boundaries
         title: Matching Line Boundaries
         id: 7e4f2f08-4d70-4958-baab-5611b820eaed
+  - code: regex-beyond-match
+    title: Regex Beyond Match
+    id: edfea6bd-a851-42b2-a4a9-828b8dd7f212
+    topics: []
   - code: about
     title: About
     id: 53cb429e-bd27-46d6-a657-c1f04138ae22
