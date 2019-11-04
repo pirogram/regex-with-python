@@ -58,6 +58,9 @@ toc:
       - code: matching-0-or-more-occurrences
         title: Matching 0 or More Occurrences
         id: 35eaf227-1125-41db-b91b-c01c80578fd7
+      - code: matching-1-or-more-occurrences
+        title: Matching 1 or More Occurrences
+        id: f21ebec9-1c5c-4927-bc77-304cbf878811
   - code: about
     title: About
     id: 53cb429e-bd27-46d6-a657-c1f04138ae22
