@@ -84,6 +84,9 @@ toc:
       - code: extract-full-match
         title: Extract Full Match
         id: aabcf96e-f69b-4802-a2c3-d6c3219e7f00
+      - code: extract-nested-match
+        title: Extract Nested Match
+        id: e1872ca7-7a25-47c8-b15e-8759a61a35a9
   - code: about
     title: About
     id: 53cb429e-bd27-46d6-a657-c1f04138ae22
