@@ -90,6 +90,9 @@ toc:
       - code: extract-named-groups
         title: Extract Named Groups
         id: 362a60b3-5451-45cb-aef5-4a6084b65f0f
+      - code: split()-findall()
+        title: split() / findall()
+        id: 07a9aad5-79f0-4d0f-a29c-b3f5791f53de
   - code: about
     title: About
     id: 53cb429e-bd27-46d6-a657-c1f04138ae22
