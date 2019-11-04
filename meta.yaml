@@ -68,6 +68,9 @@ toc:
       - code: introduction-3
         title: Introduction
         id: 1aca0807-ddc5-4d43-8e3b-7d18e2ee58cd
+      - code: matching-word-boundaries
+        title: Matching Word Boundaries
+        id: 0e884287-d7dc-4c31-84e2-a701f6418fbb
   - code: about
     title: About
     id: 53cb429e-bd27-46d6-a657-c1f04138ae22
