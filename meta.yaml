@@ -87,6 +87,9 @@ toc:
       - code: extract-nested-match
         title: Extract Nested Match
         id: e1872ca7-7a25-47c8-b15e-8759a61a35a9
+      - code: extract-named-groups
+        title: Extract Named Groups
+        id: 362a60b3-5451-45cb-aef5-4a6084b65f0f
   - code: about
     title: About
     id: 53cb429e-bd27-46d6-a657-c1f04138ae22
