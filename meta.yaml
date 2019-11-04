@@ -81,6 +81,9 @@ toc:
       - code: introduction-4
         title: Introduction
         id: bcc3c8f3-2e9b-423d-a199-4e49015b749a
+      - code: extract-full-match
+        title: Extract Full Match
+        id: aabcf96e-f69b-4802-a2c3-d6c3219e7f00
   - code: about
     title: About
     id: 53cb429e-bd27-46d6-a657-c1f04138ae22
