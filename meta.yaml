@@ -23,7 +23,10 @@ toc:
   - code: matching-characters
     title: Matching Characters
     id: 11790329-df2c-414e-9de3-c63055bbd0f0
-    topics: []
+    topics:
+      - code: introduction-1
+        title: Introduction
+        id: 67305f70-7b13-42c2-a2dc-f738dc9644e6
   - code: about
     title: About
     id: 53cb429e-bd27-46d6-a657-c1f04138ae22
