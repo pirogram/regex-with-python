@@ -52,6 +52,9 @@ toc:
       - code: matching-m-to-n-occurrences
         title: Matching m To n Occurrences
         id: 51c1ff9c-61bf-466a-b5a9-5e7013576ef5
+      - code: matching-0-or-1-occurrences
+        title: Matching 0 or 1 Occurrences
+        id: af8d9775-90b4-4be6-9ed2-bc60a67e42d8
   - code: about
     title: About
     id: 53cb429e-bd27-46d6-a657-c1f04138ae22
