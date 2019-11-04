@@ -27,6 +27,9 @@ toc:
       - code: introduction-1
         title: Introduction
         id: 67305f70-7b13-42c2-a2dc-f738dc9644e6
+      - code: matching-literals
+        title: Matching Literals
+        id: 5845ded8-9efd-4416-9126-4a89146fbd2f
   - code: about
     title: About
     id: 53cb429e-bd27-46d6-a657-c1f04138ae22
