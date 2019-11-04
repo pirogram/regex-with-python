@@ -30,6 +30,9 @@ toc:
       - code: matching-literals
         title: Matching Literals
         id: 5845ded8-9efd-4416-9126-4a89146fbd2f
+      - code: matching-special-characters
+        title: Matching Special Characters
+        id: 24787453-2095-496d-9584-9b9bdc954853
   - code: about
     title: About
     id: 53cb429e-bd27-46d6-a657-c1f04138ae22
