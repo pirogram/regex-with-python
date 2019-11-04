@@ -71,6 +71,9 @@ toc:
       - code: matching-word-boundaries
         title: Matching Word Boundaries
         id: 0e884287-d7dc-4c31-84e2-a701f6418fbb
+      - code: matching-line-boundaries
+        title: Matching Line Boundaries
+        id: 7e4f2f08-4d70-4958-baab-5611b820eaed
   - code: about
     title: About
     id: 53cb429e-bd27-46d6-a657-c1f04138ae22
