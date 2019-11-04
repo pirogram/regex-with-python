@@ -4,7 +4,10 @@ toc:
   - code: regex-introduction
     title: Regex Introduction
     id: 6100db06-9273-48b2-ae5e-0074bfbd11ee
-    topics: []
+    topics:
+      - code: introduction
+        title: Introduction
+        id: fceb85d2-9058-4475-97dc-1c79c47ce8e2
   - code: about
     title: About
     id: 53cb429e-bd27-46d6-a657-c1f04138ae22
