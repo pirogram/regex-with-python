@@ -1,6 +1,10 @@
 code: regex-with-python
 title: Regex With Python
 toc:
+  - code: regex-introduction
+    title: Regex Introduction
+    id: 6100db06-9273-48b2-ae5e-0074bfbd11ee
+    topics: []
   - code: about
     title: About
     id: 53cb429e-bd27-46d6-a657-c1f04138ae22
